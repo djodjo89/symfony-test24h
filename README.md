@@ -32,3 +32,8 @@ Théo S
     Commentaires pertinents
     Prénoms stockés dans un fichier (plus simple qu'en Java : )
     Globalement, code assez propre
+Alexandre K
+-
+    Code mal indenté
++
+    Respecte bien les consignes
