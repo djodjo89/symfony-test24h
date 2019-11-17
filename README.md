@@ -20,4 +20,9 @@ Romain C
 +
     Serialization de Character (bug d'affichage des caractères spéciaux : )
     Commentaires clairs et bien placés
+Adham A
+-
++
+    Code propre et aéré
+    Utilisation de json([get_object_vars()])
     
