@@ -1,4 +1,4 @@
-# symfony-test24h
+# test24h
 The symfony API for the contest of "24h des IUT Info"
 
 Cedric F
@@ -25,4 +25,10 @@ Adham A
 +
     Code propre et aéré
     Utilisation de json([get_object_vars()])
-    
+Théo S
+-
+    Duplication du code de lecture de fichier
++
+    Commentaires pertinents
+    Prénoms stockés dans un fichier (plus simple qu'en Java : )
+    Globalement, code assez propre
